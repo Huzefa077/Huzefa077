@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Huzaifa Sheikh 👋
 
-<!--
-**Huzefa077/Huzefa077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack / MERN Stack Developer
+🚀 Passionate about building scalable web applications and interactive user experiences
+📍 India | Open to Work
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Frontend: React.js, HTML5, CSS3, JavaScript
+* Backend: Node.js, Express.js
+* Databases: PostgreSQL, MongoDB, MySQL, Supabase
+* Tools: Git, GitHub, Vercel, Render
+* Concepts: REST APIs, State Management, MVC Architecture
+
+## 🚀 Featured Projects
+
+### 🔹 Ocula – AI Human Face Detector
+
+AI-powered face detection web app using React.js, Node.js, PostgreSQL, and face-api.js.
+
+### 🔹 Personalized Diet Planner
+
+Full-stack diet planning web application focused on personalized nutrition management.
+
+### 🔹 SkyCast Weather Dashboard
+
+Weather forecasting application using JavaScript and OpenWeather API.
+
+## 📫 Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/huzaifasheikh077](http://www.linkedin.com/in/huzaifasheikh077)
+* GitHub: github.com/Huzefa077
+* Email: [huzaifasajid.sheikh@gmail.com](mailto:huzaifasajid.sheikh@gmail.com)
