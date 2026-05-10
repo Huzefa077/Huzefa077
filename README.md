@@ -1,67 +1,98 @@
-# Hi, I'm Huzaifa Sheikh 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Huzaifa+Sheikh+%F0%9F%91%8B;Full+Stack+%2F+MERN+Stack+Developer;Building+Scalable+Web+Applications;Open+to+Work+%7C+Always+Learning" alt="Typing SVG" />
+</div>
 
-💻 Full Stack / MERN Stack Developer
+<br>
 
-🚀 Passionate about building scalable web applications and interactive user experiences
-
-📍 India | Open to Work
+<div align="center">
+  <a href="https://linkedin.com/in/huzaifasheikh077">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Huzefa077">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:huzaifasajid.sheikh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 ---
 
+### 👨‍💻 About Me
+
+**Full Stack / MERN Stack Developer** from **India** 🇮🇳  
+Passionate about crafting **scalable**, **beautiful**, and **user-centric** web applications. I love turning ideas into reality through clean code and modern technologies.
+
+- 🚀 Currently building **full-stack** solutions
+- 💡 Always exploring new tools and best practices
+- 📍 Open to **remote** or **full-time** opportunities
+
+---
+
+### 🛠 Tech Stack
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+**🔹 Ocula – AI Human Face Detector**
+- Full-stack AI-powered face detection web app
+- Features: Face detection, age/gender estimation, emotion analysis
+- Tech: React.js, Node.js, PostgreSQL, face-api.js
+
+**🔹 Personalized Diet Planner**
+- Team project focused on personalized nutrition planning
+- Worked on feature planning, database design, web scraping & documentation
+
+**🔹 SkyCast Weather Dashboard**
+- Real-time weather application with beautiful UI
+- Tech: JavaScript, OpenWeather API, Responsive Design
+
+> *Check out my repositories for more projects!*
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=React.js+%7C+Node.js+%7C+MERN+Stack+Developer;Building+Full-Stack+Web+Applications;Open+to+Work+%7C+Always+Learning" alt="Typing SVG" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Huzefa077&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzefa077&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Huzefa077&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🛠 Tech Stack
+### 📫 Let's Connect
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+- **LinkedIn**: [linkedin.com/in/huzaifasheikh077](https://linkedin.com/in/huzaifasheikh077)
+- **GitHub**: [github.com/Huzefa077](https://github.com/Huzefa077)
+- **Email**: [huzaifasajid.sheikh@gmail.com](mailto:huzaifasajid.sheikh@gmail.com)
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 Ocula – AI Human Face Detector
-
-* Full-stack AI-powered face detection web app using React.js, Node.js, PostgreSQL, and face-api.js.
-* Features include face detection, age estimation, gender recognition, and facial expression analysis.
-
-### 🔹 Personalized Diet Planner
-
-* Team-based full-stack diet planning web application focused on personalized nutrition management.
-* Contributed to feature ideation, documentation, database research, web scraping, and workflow planning.
-
-### 🔹 SkyCast Weather Dashboard
-
-* Real-time weather forecasting application using JavaScript and OpenWeather API.
-* Responsive UI with dynamic weather data fetching.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Huzefa077&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views"/>
+</div>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Huzefa077&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzefa077&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Huzefa077&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-* LinkedIn: [www.linkedin.com/in/huzaifasheikh077](http://www.linkedin.com/in/huzaifasheikh077)
-* GitHub: github.com/Huzefa077
-* Email: [huzaifasajid.sheikh@gmail.com](mailto:huzaifasajid.sheikh@gmail.com)
+**Thanks for visiting my profile!** ✨  
+Feel free to explore my projects and reach out if you'd like to collaborate.
