@@ -4,7 +4,7 @@
 
 🚀 Passionate about building scalable web applications and interactive user experiences
 
-📍 India | Saudi Arabia | Open to Work
+📍 India | Open to Work
 
 ---
 
@@ -49,9 +49,14 @@
 
 ## 📊 GitHub Stats
 
-![Huzaifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huzefa077\&show_icons=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Huzefa077&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzefa077&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzefa077\&layout=compact)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Huzefa077&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
 
 ---
 
