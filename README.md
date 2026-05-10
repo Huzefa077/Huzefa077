@@ -1,8 +1,16 @@
 # Hi, I'm Huzaifa Sheikh 👋
 
 💻 Full Stack / MERN Stack Developer
+
 🚀 Passionate about building scalable web applications and interactive user experiences
+
 📍 India | Open to Work
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=React.js+%7C+Node.js+%7C+MERN+Stack+Developer;Building+Full-Stack+Web+Applications;Open+to+Work+%7C+Always+Learning" alt="Typing SVG" />
+</p>
 
 ---
 
