@@ -4,7 +4,7 @@
 
 🚀 Passionate about building scalable web applications and interactive user experiences
 
-📍 India | Open to Work
+📍 India | Saudi Arabia | Open to Work
 
 ---
 
