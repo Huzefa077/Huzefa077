@@ -4,27 +4,48 @@
 🚀 Passionate about building scalable web applications and interactive user experiences
 📍 India | Open to Work
 
+---
+
 ## 🛠 Tech Stack
 
-* Frontend: React.js, HTML5, CSS3, JavaScript
-* Backend: Node.js, Express.js
-* Databases: PostgreSQL, MongoDB, MySQL, Supabase
-* Tools: Git, GitHub, Vercel, Render
-* Concepts: REST APIs, State Management, MVC Architecture
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+---
 
 ## 🚀 Featured Projects
 
 ### 🔹 Ocula – AI Human Face Detector
 
-AI-powered face detection web app using React.js, Node.js, PostgreSQL, and face-api.js.
+* Full-stack AI-powered face detection web app using React.js, Node.js, PostgreSQL, and face-api.js.
+* Features include face detection, age estimation, gender recognition, and facial expression analysis.
 
 ### 🔹 Personalized Diet Planner
 
-Full-stack diet planning web application focused on personalized nutrition management.
+* Team-based full-stack diet planning web application focused on personalized nutrition management.
+* Contributed to feature ideation, documentation, database research, web scraping, and workflow planning.
 
 ### 🔹 SkyCast Weather Dashboard
 
-Weather forecasting application using JavaScript and OpenWeather API.
+* Real-time weather forecasting application using JavaScript and OpenWeather API.
+* Responsive UI with dynamic weather data fetching.
+
+---
+
+## 📊 GitHub Stats
+
+![Huzaifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huzefa077\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzefa077\&layout=compact)
+
+---
 
 ## 📫 Connect With Me
 
