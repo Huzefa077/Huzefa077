@@ -67,7 +67,7 @@ Real-time weather forecasting app with clean and responsive UI.
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Activity
 
 <div align="center">
   <picture>
@@ -101,6 +101,8 @@ Feel free to reach out — I'm always excited to connect with fellow developers!
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Huzefa077&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views"/>
 </div>
+
+---
 
 **Thanks for visiting!** ✨  
 Open to collaboration and new opportunities.
