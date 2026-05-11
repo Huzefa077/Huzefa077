@@ -26,12 +26,12 @@
 
 ### 👨‍💻 About Me
 
-**Full Stack / MERN Stack Developer** from **India** 🇮🇳  
-Passionate about crafting **scalable**, **beautiful**, and **user-centric** web applications. I love turning ideas into reality through clean code and modern technologies.
+**B.Tech Computer Engineer** from **India** 🇮🇳  
+Passionate **Full Stack / MERN Stack Developer** who loves turning ideas into clean, scalable, and beautiful web applications.
 
-- 🚀 Currently building **full-stack** solutions
-- 💡 Always exploring new tools and best practices
-- 📍 Open to **remote** or **full-time** opportunities
+- 🚀 Building modern full-stack solutions
+- 💡 Always exploring new technologies and best practices
+- 🔍 Open to **remote** / **full-time** opportunities
 
 ---
 
@@ -40,12 +40,11 @@ Passionate about crafting **scalable**, **beautiful**, and **user-centric** web 
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -55,20 +54,28 @@ Passionate about crafting **scalable**, **beautiful**, and **user-centric** web 
 
 ### 🚀 Featured Projects
 
-**🔹 Ocula – AI Human Face Detector**
-- Full-stack AI-powered face detection web app
-- Features: Face detection, age/gender estimation, emotion analysis
-- Tech: React.js, Node.js, PostgreSQL, face-api.js
+**🔹 Ocula – AI Human Face Detector**  
+Full-stack AI-powered face detection app with age, gender, and emotion analysis.
 
-**🔹 Personalized Diet Planner**
-- Team project focused on personalized nutrition planning
-- Worked on feature planning, database design, web scraping & documentation
+**🔹 Personalized Diet Planner**  
+Collaborative full-stack application for personalized nutrition planning.
 
-**🔹 SkyCast Weather Dashboard**
-- Real-time weather application with beautiful UI
-- Tech: JavaScript, OpenWeather API, Responsive Design
+**🔹 SkyCast Weather Dashboard**  
+Real-time weather forecasting app with clean and responsive UI.
 
-> *Check out my repositories for more projects!*
+> Check out my repositories for more projects!
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Huzefa077/Huzefa077/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Huzefa077/Huzefa077/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/Huzefa077/Huzefa077/output/github-snake.svg" alt="Contribution Snake" width="100%">
+  </picture>
+</div>
 
 ---
 
@@ -82,13 +89,12 @@ Passionate about crafting **scalable**, **beautiful**, and **user-centric** web 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Huzefa077&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
 </p>
+
 ---
 
 ### 📫 Let's Connect
 
-- **LinkedIn**: [linkedin.com/in/huzaifasheikh077](https://linkedin.com/in/huzaifasheikh077)
-- **GitHub**: [github.com/Huzefa077](https://github.com/Huzefa077)
-- **Email**: [huzaifasajid.sheikh@gmail.com](mailto:huzaifasajid.sheikh@gmail.com)
+Feel free to reach out — I'm always excited to connect with fellow developers!
 
 ---
 
@@ -96,7 +102,5 @@ Passionate about crafting **scalable**, **beautiful**, and **user-centric** web 
   <img src="https://komarev.com/ghpvc/?username=Huzefa077&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views"/>
 </div>
 
----
-
-**Thanks for visiting my profile!** ✨  
-Feel free to explore my projects and reach out if you'd like to collaborate.
+**Thanks for visiting!** ✨  
+Open to collaboration and new opportunities.
