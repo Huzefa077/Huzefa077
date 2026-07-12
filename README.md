@@ -26,7 +26,7 @@
 
 ### 👨‍💻 About Me
 
-**B.Tech Computer Engineer** from **India** 🇮🇳  
+**B.E. Computer Engineer** from **India** 🇮🇳  
 Passionate **Full Stack Web Developer** who loves turning ideas into clean, scalable, and beautiful web applications.
 
 - 🚀 Building modern full-stack solutions
