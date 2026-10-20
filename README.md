@@ -28,7 +28,7 @@
 - 💻 Full Stack Developer with **1.5+ years** of hands-on web development in **JavaScript & TypeScript**
 - 🧩 I build **REST APIs**, **authentication & role-based access**, and clean database layers
 - 🎨 Comfortable across the stack — from **PostgreSQL** to **React** screens
-- 🌱 Currently building an **enterprise service management system** from scratch
+- 🌱 Love to build Web apps from scratch
 - 🤝 Open to **Full Stack / Software Developer** roles — remote or on-site
 
 <br clear="right"/>
