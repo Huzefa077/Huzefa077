@@ -1,108 +1,144 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Huzaifa+Sheikh+%F0%9F%91%8B;Full+Stack+Web+Developer;Building+Scalable+Web+Applications;Open+to+Work+%7C+Always+Learning" alt="Typing SVG" />
-</div>
+<!-- ===== HEADER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Huzaifa%20Sheikh&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%201.5%2B%20Years%20Hands-On&descAlignY=58&descSize=18" alt="Header"/>
+</p>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Building+secure%2C+scalable+web+apps;Node.js+%E2%80%A2+Express+%E2%80%A2+PostgreSQL;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Open+to+new+opportunities+%F0%9F%9A%80" alt="Typing SVG"/>
+</p>
 
-<div align="center">
-  <a href="https://linkedin.com/in/huzaifasheikh077">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Huzefa077">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://wa.me/919579792089">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://t.me/Huzaifa_o77">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:huzaifasajid.sheikh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/huzaifasheikh077"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:huzaifasajid.sheikh@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://wa.me/919579792089"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://t.me/Huzaifa_o77"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+</p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Huzefa077&label=PROFILE+VIEWS&color=7c3aed&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square" alt="Open to Work"/>
+</p>
 
-### 👨‍💻 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-**B.E. Computer Engineer** from **India** 🇮🇳  
-Passionate **Full Stack Web Developer** who loves turning ideas into clean, scalable, and beautiful web applications.
+## ⚡ About Me
 
-- 🚀 Building modern full-stack solutions
-- 💡 Always exploring new technologies and best practices
-- 🔍 Open to **remote** / **full-time** opportunities
+<img align="right" width="340" src="https://github-readme-stats-fast.vercel.app/api?username=Huzefa077&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&count_private=true&hide_title=true&bg_color=0d1117" alt="Stats"/>
 
----
+- 💻 Full Stack Developer with **1.5+ years** of hands-on web development in **JavaScript & TypeScript**
+- 🧩 I build **REST APIs**, **authentication & role-based access**, and clean database layers
+- 🎨 Comfortable across the stack — from **PostgreSQL** to **React** screens
+- 🌱 Currently building an **enterprise service management system** from scratch
+- 🤝 Open to **Full Stack / Software Developer** roles — remote or on-site
 
-### 🛠 Tech Stack
+<br clear="right"/>
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 🛠 Tech Stack
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,mongodb&theme=dark&perline=6" alt="Core"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=5" alt="Frontend"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel&theme=dark&perline=5" alt="Tools"/>
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeORM-1e1e2e?style=flat-square&logo=typeorm&logoColor=FE0803"/>
+  <img src="https://img.shields.io/badge/Mongoose-1e1e2e?style=flat-square&logo=mongoose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Knex-1e1e2e?style=flat-square&logo=knexdotjs&logoColor=D26B38"/>
+  <img src="https://img.shields.io/badge/JWT-1e1e2e?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-1e1e2e?style=flat-square&logo=fastapi&logoColor=a78bfa"/>
+</p>
 
-### 🚀 Featured Projects
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-**🔹 Ocula – AI Human Face Detector**  
-Full-stack AI-powered face detection app with age, gender, and emotion analysis.
+## 🚀 Featured Projects
 
-**🔹 Personalized Diet Planner**  
-Collaborative full-stack application for personalized nutrition planning.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**🔹 SkyCast Weather Dashboard**  
-Real-time weather forecasting app with clean and responsive UI.
+### 🏢 Enterprise Service Management
+<img src="https://img.shields.io/badge/IN%20PROGRESS-f59e0b?style=flat-square"/>
 
-> Check out my repositories for more projects!
+Backend-first platform to log, assign and track customer service requests.
 
----
+- 🔐 Auth & role-based access control
+- 🎫 Service request lifecycle
+- 🔎 Search, filters & pagination
+- ⚙️ …and more modules
 
-### 🐍 Contribution Activity
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres&theme=dark" height="32"/>
 
-<div align="center">
+</td>
+<td width="50%" valign="top">
+
+### 👁️ Ocula
+<img src="https://img.shields.io/badge/AI%20FACE%20ANALYSIS-7c3aed?style=flat-square"/>
+
+Detects faces in the browser and estimates age, gender and emotion.
+
+- 🔐 Sign-in & scan tracking
+- 🫥 Selective privacy blur
+- 📤 Anonymized image export
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" height="32"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🥗 MunchPlan
+<img src="https://img.shields.io/badge/NUTRITION%20PLANNER-22c55e?style=flat-square"/>
+
+Personalized nutrition and meal planning with daily tracking.
+
+- 📊 Daily tracking & history
+- 🔑 Google Sign-In with sync
+- 📱 Responsive UI
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark" height="32"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌦️ SkyCast
+<img src="https://img.shields.io/badge/WEATHER%20DASHBOARD-0ea5e9?style=flat-square"/>
+
+Real-time weather forecasts in a clean, responsive dashboard.
+
+<img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" height="32"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=Huzefa077&theme=tokyonight&hide_border=true&border_radius=14&background=0d1117" alt="Streak"/>
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Huzefa077&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&count_private=true&bg_color=0d1117" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Huzefa077&theme=tokyo-night&hide_border=true&radius=14&area=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff" alt="Activity Graph"/>
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Huzefa077/Huzefa077/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Huzefa077/Huzefa077/output/github-snake.svg">
     <img src="https://raw.githubusercontent.com/Huzefa077/Huzefa077/output/github-snake.svg" alt="Contribution Snake" width="100%">
   </picture>
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Huzefa077&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Huzefa077&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="Top Languages"/>
 </p>
 
+<!-- ===== FOOTER ===== -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Huzefa077&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="Footer"/>
 </p>
-
----
-
-### 📫 Let's Connect
-
-Feel free to reach out — I'm always excited to connect with fellow developers!
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Huzefa077&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views"/>
-</div>
-
----
-
-**Thanks for visiting!** ✨  
-Open to collaboration and new opportunities.
